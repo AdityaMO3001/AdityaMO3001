@@ -5,19 +5,41 @@ Hi! I'm Aditya Mogadpally — a data-first analytics professional with 3+ years 
 
 ---
 
-## 💼 Experience Highlights:
+## 🔍 Experience
 
-- **📈 FCE, Northeastern University**  
-  Led a 15-member analytics team to process over 90,000 transcripts using SQL and Salesforce CRM, eliminating data redundancies and streamlining admissions. Built 5+ Power BI dashboards with DAX and Azure Synapse, automated reporting workflows, and performed A/B testing in Python that boosted student engagement and improved outreach strategy.
+### 📦 Wayfair — *Business Intelligence Analyst*  
+**Sep 2024 – Present**  
+- Developed interactive dashboards in **Power BI** and **Tableau** to track delivery KPIs and inventory trends in real time.
+- Engineered scalable data models using **SQL** (PostgreSQL, Snowflake) and automated **Python (Pandas, Seaborn)** pipelines for SKU forecasting and delivery risk analysis.
+- Enabled proactive decision-making by integrating dynamic alerts for low-stock and late shipments.
+- Collaborated cross-functionally and documented business logic in **Confluence** and **Jira**.
 
-- **🏥 Johnson & Johnson**  
-  Automated 9+ BI reporting pipelines for 27+ KPIs using Power BI, SQL, and Python, cutting report time by 60% and driving $25K+ in savings. Created centralized data models and led stakeholder requirement gathering to support cross-functional decision-making and procurement optimization.
+---
 
-- **✈️ Musafir.com**  
-  Optimized backend airline systems using SQL, LINQ-to-SQL, and MSSQL stored procedures to reduce latency by 36%. Supported agile development cycles, led retrospectives, and improved sprint velocity while enhancing customer satisfaction by 68%.
+### 🏥 Johnson & Johnson — *Data Analyst Co-Op*  
+**Jan 2024 – Jul 2024**  
+- Automated 9+ **BI dashboards** using **Power BI**, **Excel**, and **Python**, reducing reporting time by 60% and saving $25K+ annually.
+- Analyzed $5M+ in monthly procurement data using **SQL** and built enterprise-grade dashboards to improve supply planning efficiency.
+- Consolidated 53 Excel reports into a single dynamic Power BI dashboard, enhancing warehouse reporting speed by 60%.
+- Delivered actionable insights on supplier performance and forecast accuracy (+15%).
 
-- **🌱 Greenstand**  
-  Supported environmental data analysis projects focused on sustainability impact tracking. Contributed to process automation and workflow optimization using low-code tools and visual dashboards.
+---
+
+### 🛍 Aplus Datalytics — *Data Analyst*  
+**Dec 2019 – Jul 2022**  
+- Cleaned and transformed healthcare and retail datasets to extract insights on customer behavior and prescription trends.
+- Built **RFM-based segmentation models** to improve targeting and client retention.
+- Created real-time dashboards using **Power BI**, **Excel**, and cloud-based storage for sales and market share analytics.
+- Aligned development with **Agile** and **Waterfall SDLC** using **Jira**.
+
+---
+
+### 🌱 Greenstand — *BI & Automation Contributor*  
+**Volunteer Project**  
+- Analyzed environmental impact data and supported sustainability metric tracking.
+- Automated workflows using **low-code tools** (e.g., n8n, Airtable, Zapier) and visualized outcomes with **Power BI**.
+- Helped optimize reporting and increase transparency in reforestation and carbon sequestration efforts.
+
 
 ---
 
