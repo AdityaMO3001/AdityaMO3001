@@ -56,6 +56,23 @@ Experienced in exploratory data analysis, KPI development, forecasting, dashboar
 - Used SQL to analyze transactional and prescription data and developed recency/frequency-based customer segmentation.
 - Developed automated Power BI and Excel dashboards for sales, prescription, customer-behavior, and market-share reporting.
 
+## Featured projects
+
+### [Superstore Sales Analytics Pipeline](https://github.com/AdityaMO3001/superstore-sales-analytics-pipeline)
+End-to-end analytics pipeline covering data ingestion, cleaning, transformation, forecasting, validation, and visualization.
+
+### [Automated Excel Dashboard](https://github.com/AdityaMO3001/automated-excel-dashboard)
+Automated reporting solution that converts source data into refreshable KPIs and interactive business views.
+
+### [Superstore Sales Dashboard](https://github.com/AdityaMO3001/Superstore_dashboard_excel)
+Interactive Excel analytics product using PivotTables, formulas, filters, and structured KPI reporting.
+
+### [Ocular Disease Recognition](https://github.com/AdityaMO3001/ocular_disease_recognition)
+Machine-learning project applying data preprocessing and computer-vision techniques to disease classification.
+
+### [Housing Price Statistical Analysis](https://github.com/AdityaMO3001/housingPriceStatisticalandCorrelationAnalysis)
+Exploratory and statistical analysis examining relationships between housing attributes and market prices.
+
 ## Education
 
 - **Master’s in Engineering Management** — Northeastern University, USA, Dec 2024
