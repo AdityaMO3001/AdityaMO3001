@@ -1,90 +1,71 @@
-# Aditya Mogadpally 📊
-**Data Analyst | Business Analyst | BI Developer | Python & SQL Enthusiast**
+# Hi, I'm Aditya Mogadpally 👋
 
-Hi! I'm Aditya Mogadpally — a data-first analytics professional with 3+ years of experience translating raw data into strategic insights and actionable solutions. I specialize in BI development, statistical analysis, and automation using modern data stacks across industries like healthcare, education, e-commerce, and sustainability.
+## Business Intelligence & Data Analyst
 
----
+I’m a BI and Data Analyst with **4+ years of experience** turning complex data into clear business decisions. My work spans retail, supply chain, procurement, healthcare, and customer analytics, with a focus on building reliable data models, automated reporting, executive dashboards, and practical recommendations.
 
-## 🔍 Experience
+I’m currently exploring **Business Intelligence Analyst, Data Analyst, and Senior Analyst** opportunities.
 
-### 📦 Wayfair — *Business Intelligence Analyst*  
-**Sep 2024 – Present**  
-- Developed interactive dashboards in **Power BI** and **Tableau** to track delivery KPIs and inventory trends in real time.
-- Engineered scalable data models using **SQL** (PostgreSQL, Snowflake) and automated **Python (Pandas, Seaborn)** pipelines for SKU forecasting and delivery risk analysis.
-- Enabled proactive decision-making by integrating dynamic alerts for low-stock and late shipments.
-- Collaborated cross-functionally and documented business logic in **Confluence** and **Jira**.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityam5038/)
+[![GitHub](https://img.shields.io/badge/GitHub-AdityaMO3001-181717?logo=github&logoColor=white)](https://github.com/AdityaMO3001)
 
 ---
 
-### 🏥 Johnson & Johnson — *Data Analyst Co-Op*  
-**Jan 2024 – Jul 2024**  
-- Automated 9+ **BI dashboards** using **Power BI**, **Excel**, and **Python**, reducing reporting time by 60% and saving $25K+ annually.
-- Analyzed $5M+ in monthly procurement data using **SQL** and built enterprise-grade dashboards to improve supply planning efficiency.
-- Consolidated 53 Excel reports into a single dynamic Power BI dashboard, enhancing warehouse reporting speed by 60%.
-- Delivered actionable insights on supplier performance and forecast accuracy (+15%).
+## What I bring
+
+- **Retail and category analytics:** assortment, pricing, promotions, merchandising, inventory, planograms, and sales-to-space analysis
+- **Business intelligence:** reusable datasets, KPI frameworks, executive dashboards, and recurring business-review reporting
+- **Analytics engineering:** Snowflake SQL models, dbt workflows, automated data preparation, and scalable reporting pipelines
+- **Decision support:** translating large datasets and business questions into recommendations for category managers and leadership
+- **AI-enabled analytics:** using Claude, Claude Code, ChatGPT, and Codex to streamline analytical workflows and reporting
+
+## Selected impact
+
+- Reduced slow- and non-moving cigarette inventory by approximately **78%**, from over **$900K to about $200K**, across six states through SKU-level sales velocity, demand, and inventory analysis.
+- Integrated POS, finance, inventory, pricing, promotion, planogram, and Nielsen data into reusable analytical models for retail decision-making.
+- Led recurring **sales-to-space analysis across retail departments**, measuring sales and gross margin per linear foot and recommending planogram and item-level changes.
+- Built a promotion measurement framework covering sales lift, ROI, break-even performance, loyalty penetration, basket attachment, and cannibalization.
+- Created an AI-assisted reporting workflow using Claude Code, custom Claude Skills, SQL, and dbt that reduced recurring analysis from roughly one day to about two hours.
+- Automated BI and procurement reporting at Johnson & Johnson, improving reporting speed and stakeholder access to operational insights.
+
+## Technical toolkit
+
+| Area | Tools |
+|---|---|
+| Analytics | SQL, Python, R, Excel |
+| BI & visualization | Power BI, Tableau, Seaborn, Matplotlib |
+| Data platforms | Snowflake, PostgreSQL, SQL Server, MySQL, Oracle, Amazon Redshift |
+| Data workflows | dbt, Dagster, Fivetran, Power Query, APIs, AWS Lambda |
+| Business analytics | KPI development, trend and variance analysis, root-cause analysis, forecasting, customer segmentation |
+| Retail analytics | Nielsen data, planogram analysis, sales-to-space, pricing, promotions, assortment, inventory |
+
+## Featured projects
+
+### [Superstore Sales Analytics Pipeline](https://github.com/AdityaMO3001/superstore-sales-analytics-pipeline)
+End-to-end retail analytics pipeline covering data preparation, forecasting, visualization, and inventory-planning insights.
+
+### [Automated Excel Dashboard](https://github.com/AdityaMO3001/automated-excel-dashboard)
+Automated reporting workflow designed to reduce recurring manual work and make business KPIs easier to monitor.
+
+### [Superstore Sales Dashboard](https://github.com/AdityaMO3001/Superstore_dashboard_excel)
+Interactive Excel dashboard with KPI tracking, dynamic filtering, and retail sales analysis.
+
+### [Ocular Disease Recognition](https://github.com/AdityaMO3001/ocular_disease_recognition)
+Machine-learning project focused on ocular disease classification using computer-vision techniques.
 
 ---
 
-### 🛍 Aplus Datalytics — *Data Analyst*  
-**Dec 2019 – Jul 2022**  
-- Cleaned and transformed healthcare and retail datasets to extract insights on customer behavior and prescription trends.
-- Built **RFM-based segmentation models** to improve targeting and client retention.
-- Created real-time dashboards using **Power BI**, **Excel**, and cloud-based storage for sales and market share analytics.
-- Aligned development with **Agile** and **Waterfall SDLC** using **Jira**.
+## Experience highlights
+
+- **Global Partners LP — Business Intelligence Analyst:** Owned retail analytics across POS, finance, inventory, pricing, promotions, planograms, and Nielsen data.
+- **Johnson & Johnson — Data Analyst Co-op:** Automated reporting and analyzed procurement and supply-chain data using Power BI, Excel, Python, and SQL.
+- **Aplus Datalytics — Data Analyst:** Analyzed retail and pharmaceutical data, developed customer segmentation, and built recurring business dashboards.
+
+## Certifications
+
+- Certified Associate in Project Management (**CAPM**)
+- **Lean Six Sigma**
 
 ---
 
-### 🌱 Greenstand — *BI & Automation Contributor*  
-**Volunteer Project**  
-- Analyzed environmental impact data and supported sustainability metric tracking.
-- Automated workflows using **low-code tools** (e.g., n8n, Airtable, Zapier) and visualized outcomes with **Power BI**.
-- Helped optimize reporting and increase transparency in reforestation and carbon sequestration efforts.
-
-
----
-
-## 📂 Featured Projects
-
-- [Superstore Sales Dashboard](https://github.com/AdityaMO3001/Superstore_dashboard_excel)  
-  Developed an interactive Excel dashboard for retail analytics, featuring dynamic filtering, KPI tracking, and trend visualization. Implemented pivot tables and advanced Excel functions to enable real-time business insights and decision-making.
-
-- [Superstore Sales Analytics Pipeline](https://github.com/AdityaMO3001/superstore-sales-analytics-pipeline)  
-  Built an end-to-end sales forecasting pipeline using Python and Prophet, achieving 95% confidence intervals for inventory planning. Integrated data cleaning, transformation, and visualization components for comprehensive retail analytics.
-
-- [Ocular Disease Recognition](https://github.com/AdityaMO3001/ocular_disease_recognition)  
-  Implemented machine learning models for ocular disease classification, enhancing diagnostic accuracy through computer vision and deep learning techniques.
-
-- [Housing Price Analysis](https://github.com/AdityaMO3001/housingPriceStatisticalandCorrelationAnalysis)  
-  Conducted comprehensive statistical analysis and correlation studies on housing market data, identifying key factors influencing price trends and market dynamics.
-
----
-
-## 🧠 Core Competencies
-
-**Data Analysis & Business Intelligence:**
-- Data Cleaning, Transformation, and Visualization
-- Statistical Analysis, Hypothesis Testing, and A/B Testing
-- Time Series Forecasting and Predictive Modeling
-- Dashboard Development and KPI Tracking
-
-**Technical Skills:**
-- **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, R, C#, Java
-- **Databases:** MySQL, MSSQL, Snowflake
-- **Cloud Platforms:** AWS (Redshift, EC2, S3, Glue), Azure (Synapse, Databricks), GCP
-- **Tools:** Power BI (DAX, Power Query), Tableau, Excel (VLOOKUP, PivotTables, VBA), JIRA, GitHub, Salesforce CRM
-
-**Soft Skills:**
-- Strategic Thinking and Problem Solving
-- Cross-functional Collaboration and Communication
-- Agile Methodologies and Project Management
-
----
-
-## 🎯 Career Goals
-
-Seeking analyst roles where I can leverage my technical and business expertise to drive impact through BI reporting, stakeholder insights, automation, and advanced analytics. I'm passionate about continuous learning and working on meaningful problems with real-world applications.
-
----
-
-📫 Let's connect or collaborate on data-driven projects!  
-🔗 [LinkedIn](https://www.linkedin.com/in/adityamogadpally/) | [GitHub](https://github.com/AdityaMO3001)
+I enjoy solving business problems where strong analysis, reliable data, and clear communication can directly improve decisions. If you’re hiring for BI, data analytics, retail analytics, or analytics engineering roles, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityam5038/).
