@@ -1,10 +1,10 @@
 # Hi, I'm Aditya Mogadpally 👋
 
-## Business Intelligence Analyst | Analytics Engineering | Data Automation
+## Data Analyst | Business Intelligence Analyst
 
-I’m a data professional with **4+ years of experience** building analytical datasets, data models, automated reporting pipelines, and decision-support systems. I work across the full analytics lifecycle—from translating business requirements and validating source data to developing SQL transformations, defining KPIs, and delivering production-ready dashboards.
+Data Analyst with **5+ years of experience** using SQL, Python, Power BI, Tableau, and statistical analysis to investigate complex business problems, identify trends and root causes, and translate data into actionable recommendations.
 
-I’m currently exploring **Business Intelligence Analyst, Data Analyst, Senior Analyst, and Analytics Engineer** opportunities.
+Experienced in exploratory data analysis, KPI development, forecasting, dashboard development, and large-scale analysis across retail, eCommerce, operations, and supply chain. Strong technical background in data modeling, ETL/ELT, Snowflake, SQL Server, dbt, and SSIS, with the ability to communicate complex findings through clear, decision-ready insights.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityam5038/)
 [![GitHub](https://img.shields.io/badge/GitHub-AdityaMO3001-181717?logo=github&logoColor=white)](https://github.com/AdityaMO3001)
@@ -12,86 +12,55 @@ I’m currently exploring **Business Intelligence Analyst, Data Analyst, Senior 
 
 ---
 
-## Technical focus
+## Technical skills
 
-- **SQL and data modeling:** Build reusable analytical models in Snowflake and relational databases using joins, CTEs, window functions, aggregations, and documented business logic.
-- **Analytics engineering:** Develop modular dbt transformations and scheduled workflows that turn raw source data into reliable, analysis-ready datasets.
-- **Data integration:** Combine transactional, financial, inventory, pricing, promotion, customer, and third-party data into standardized reporting layers.
-- **Business intelligence:** Design semantic models, KPI frameworks, dashboards, and drill-down reporting in Power BI, Tableau, and Excel.
-- **Python automation:** Use Pandas and NumPy for data preparation, validation, analysis, and repeatable reporting workflows.
-- **AI-assisted analytics:** Build structured workflows with Claude Code, custom Claude Skills, ChatGPT, and Codex to accelerate SQL analysis, reporting, and documentation.
-- **Data quality:** Reconcile sources, test calculations, identify anomalies, and translate metric definitions into consistent reporting logic.
-
-## Technology stack
-
-| Layer | Technologies |
+| Area | Skills |
 |---|---|
-| Languages | SQL, Python, R, DAX |
-| Data platforms | Snowflake, Amazon Redshift, PostgreSQL, SQL Server, MySQL, Oracle |
-| Transformation & orchestration | dbt, Dagster, Fivetran, Power Query, Python ETL |
-| BI & visualization | Power BI, Tableau, Excel, Seaborn, Matplotlib |
-| Cloud & integration | AWS Lambda, APIs, Power BI Gateway, Tableau Extracts |
-| Python libraries | Pandas, NumPy, Seaborn, Matplotlib |
-| Development workflow | Git, GitHub, Jira, Agile delivery |
-| AI tools | Claude, Claude Code, custom Claude Skills, ChatGPT, Codex |
+| Data analysis & programming | SQL, Python, Pandas, NumPy, Excel, EDA, statistical analysis, forecasting |
+| Analytical methods | Root-cause analysis, trend and variance analysis, anomaly identification, impact analysis, performance analysis, KPI development, data storytelling |
+| Business intelligence | Tableau, Power BI, DAX, Power Query, dashboard development, interactive reporting, executive reporting |
+| Data modeling & engineering | dbt, Dagster, Fivetran, SSIS, ETL/ELT, data integration, workflow automation, reporting automation |
+| Data platforms | Snowflake, SQL Server, PostgreSQL, data warehousing, reusable analytics layers |
+| Business analytics | Assortment and merchandising analytics, promotional effectiveness, ROI and cannibalization analysis, inventory optimization |
+| Development & collaboration | GitHub, Jira, Confluence, Claude Code, Claude, ChatGPT, OpenAI Codex |
 
-## How I build analytics solutions
+## Professional experience
 
-```text
-Source systems
-    ↓
-Data ingestion and validation
-    ↓
-Snowflake / relational warehouse
-    ↓
-SQL + dbt transformation models
-    ↓
-Reusable analytical datasets
-    ↓
-Power BI / Tableau / Excel
-    ↓
-KPIs, insights, and business decisions
-```
+### Global Partners LP — Business Intelligence Analyst
+**Newton, MA | Oct 2025 – Sep 2026**
 
-## Selected technical impact
+- Led end-to-end analysis across eight states, combining POS, finance, inventory, pricing, promotions, planograms, and Nielsen data to identify performance trends, investigate business issues, and deliver actionable recommendations.
+- Performed exploratory and root-cause analysis on large SKU- and store-level datasets to identify inventory risk, demand patterns, and operational outliers, helping reduce slow- and non-moving inventory from **$900K+ to $200K+** in under one year.
+- Developed a promotional-performance framework using sales lift, ROI, break-even, loyalty penetration, basket attachment, and cannibalization metrics, identifying a **30% unit uplift** and **15% reduction in assortment cannibalization**.
+- Built standardized Snowflake datasets using SQL and dbt and automated recurring analytical workflows with Dagster.
+- Built a Snowflake and dbt workflow integrating sales, finance, and budget data into Tableau dashboards, with a connected Claude Skill that automated monthly reporting across eight departments.
 
-- Integrated multiple source systems into a **reusable Snowflake SQL data model** and automated transformations through dbt, creating a standardized layer for recurring reporting and KPI analysis.
-- Developed analytical logic across large transactional datasets to measure demand, velocity, performance, profitability, and operational trends.
-- Built automated Power BI, Tableau, and Excel solutions that replaced repetitive manual reporting and improved access to trusted metrics.
-- Created an AI-assisted reporting workflow using **Claude Code, custom Claude Skills, SQL, and dbt**, reducing a recurring analysis process from roughly one day to about two hours.
-- Designed measurement frameworks incorporating lift, ROI, break-even analysis, customer penetration, attachment, and cannibalization.
-- Automated procurement and supply-chain reporting at Johnson & Johnson using Power BI, Excel, Python, and SQL.
+### Wayfair — Business Intelligence Analyst
+**Boston, MA | Sep 2024 – Sep 2025**
 
-## Featured projects
+- Built scalable analytical datasets in PostgreSQL and Snowflake by integrating order, inventory, shipment, and delivery data using complex SQL joins and transformations.
+- Developed interactive Power BI and Tableau dashboards with KPI tracking, dynamic filters, drill-down analysis, and alerts for delivery delays and low-stock conditions.
+- Automated ETL pipelines and analytical workflows in Python to identify delivery risks, analyze performance trends, and forecast SKU-level demand.
 
-### [Superstore Sales Analytics Pipeline](https://github.com/AdityaMO3001/superstore-sales-analytics-pipeline)
-End-to-end analytics pipeline covering data ingestion, cleaning, transformation, forecasting, validation, and visualization.
+### Johnson & Johnson — Data Analyst Co-op
+**Boston, MA | Jan 2024 – Jul 2024**
 
-### [Automated Excel Dashboard](https://github.com/AdityaMO3001/automated-excel-dashboard)
-Automated reporting solution that converts source data into refreshable KPIs and interactive business views.
+- Designed and automated **9+ dashboards** using Power BI, SQL, Excel, and Python, accelerating data-driven decision-making by **45%**.
+- Analyzed **$5M+ in monthly procurement activity**, delivering spend, supply-chain, and purchase-order insights.
+- Consolidated **53 Excel KPI reports** into a standardized dataset and dynamic Power BI dashboard, reducing reporting time by **60%** and generating approximately **$25K in annual savings**.
 
-### [Superstore Sales Dashboard](https://github.com/AdityaMO3001/Superstore_dashboard_excel)
-Interactive Excel analytics product using PivotTables, formulas, filters, and structured KPI reporting.
+### Aplus Datalytics — Data Analyst
+**India | Dec 2019 – Jul 2022**
 
-### [Ocular Disease Recognition](https://github.com/AdityaMO3001/ocular_disease_recognition)
-Machine-learning project applying data preprocessing and computer-vision techniques to disease classification.
+- Analyzed and standardized retail and pharmaceutical datasets using SQL Server and SSIS-supported workflows.
+- Used SQL to analyze transactional and prescription data and developed recency/frequency-based customer segmentation.
+- Developed automated Power BI and Excel dashboards for sales, prescription, customer-behavior, and market-share reporting.
 
-### [Housing Price Statistical Analysis](https://github.com/AdityaMO3001/housingPriceStatisticalandCorrelationAnalysis)
-Exploratory and statistical analysis examining relationships between housing attributes and market prices.
+## Education
+
+- **Master’s in Engineering Management** — Northeastern University, USA, Dec 2024
+- **Bachelor’s in Computer Science & Engineering** — Vishwakarma Institute of Technology, India, May 2022
 
 ---
 
-## Experience highlights
-
-- **Global Partners LP — Business Intelligence Analyst:** Built integrated analytical datasets, automated reporting, KPI frameworks, and dashboards using Snowflake SQL, dbt, Python, Power BI, Tableau, and Excel.
-- **Johnson & Johnson — Data Analyst Co-op:** Automated procurement and supply-chain reporting while improving data preparation and operational visibility.
-- **Aplus Datalytics — Data Analyst:** Prepared retail and pharmaceutical datasets, developed customer segmentation, and built recurring analytical dashboards.
-
-## Certifications
-
-- Certified Associate in Project Management (**CAPM**)
-- **Lean Six Sigma**
-
----
-
-I’m interested in roles where I can combine analytics engineering, business intelligence, and stakeholder problem-solving to build reliable data products. Connect with me on [LinkedIn](https://www.linkedin.com/in/adityam5038/) or email me at [mogadpallya@gmail.com](mailto:mogadpallya@gmail.com).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/adityam5038/) or email me at [mogadpallya@gmail.com](mailto:mogadpallya@gmail.com).
