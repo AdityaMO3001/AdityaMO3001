@@ -8,6 +8,7 @@ I’m currently exploring **Business Intelligence Analyst, Data Analyst, and Sen
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityam5038/)
 [![GitHub](https://img.shields.io/badge/GitHub-AdityaMO3001-181717?logo=github&logoColor=white)](https://github.com/AdityaMO3001)
+[![Email](https://img.shields.io/badge/Email-mogadpallya%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:mogadpallya@gmail.com)
 
 ---
 
@@ -68,4 +69,4 @@ Machine-learning project focused on ocular disease classification using computer
 
 ---
 
-I enjoy solving business problems where strong analysis, reliable data, and clear communication can directly improve decisions. If you’re hiring for BI, data analytics, retail analytics, or analytics engineering roles, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityam5038/).
+I enjoy solving business problems where strong analysis, reliable data, and clear communication can directly improve decisions. If you’re hiring for BI, data analytics, retail analytics, or analytics engineering roles, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/adityam5038/) or email me at [mogadpallya@gmail.com](mailto:mogadpallya@gmail.com).
